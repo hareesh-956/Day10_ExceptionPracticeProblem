@@ -1,0 +1,15 @@
+C:\Users\haree\source\repos\Day10_ExceptionPracticeProblem\Day10_ExceptionPracticeProblem\bin\Debug\net6.0\Day10_ExceptionPracticeProblem.exe
+C:\Users\haree\source\repos\Day10_ExceptionPracticeProblem\Day10_ExceptionPracticeProblem\bin\Debug\net6.0\Day10_ExceptionPracticeProblem.deps.json
+C:\Users\haree\source\repos\Day10_ExceptionPracticeProblem\Day10_ExceptionPracticeProblem\bin\Debug\net6.0\Day10_ExceptionPracticeProblem.runtimeconfig.json
+C:\Users\haree\source\repos\Day10_ExceptionPracticeProblem\Day10_ExceptionPracticeProblem\bin\Debug\net6.0\Day10_ExceptionPracticeProblem.dll
+C:\Users\haree\source\repos\Day10_ExceptionPracticeProblem\Day10_ExceptionPracticeProblem\bin\Debug\net6.0\Day10_ExceptionPracticeProblem.pdb
+C:\Users\haree\source\repos\Day10_ExceptionPracticeProblem\Day10_ExceptionPracticeProblem\obj\Debug\net6.0\Day10_ExceptionPracticeProblem.csproj.AssemblyReference.cache
+C:\Users\haree\source\repos\Day10_ExceptionPracticeProblem\Day10_ExceptionPracticeProblem\obj\Debug\net6.0\Day10_ExceptionPracticeProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haree\source\repos\Day10_ExceptionPracticeProblem\Day10_ExceptionPracticeProblem\obj\Debug\net6.0\Day10_ExceptionPracticeProblem.AssemblyInfoInputs.cache
+C:\Users\haree\source\repos\Day10_ExceptionPracticeProblem\Day10_ExceptionPracticeProblem\obj\Debug\net6.0\Day10_ExceptionPracticeProblem.AssemblyInfo.cs
+C:\Users\haree\source\repos\Day10_ExceptionPracticeProblem\Day10_ExceptionPracticeProblem\obj\Debug\net6.0\Day10_ExceptionPracticeProblem.csproj.CoreCompileInputs.cache
+C:\Users\haree\source\repos\Day10_ExceptionPracticeProblem\Day10_ExceptionPracticeProblem\obj\Debug\net6.0\Day10_ExceptionPracticeProblem.dll
+C:\Users\haree\source\repos\Day10_ExceptionPracticeProblem\Day10_ExceptionPracticeProblem\obj\Debug\net6.0\refint\Day10_ExceptionPracticeProblem.dll
+C:\Users\haree\source\repos\Day10_ExceptionPracticeProblem\Day10_ExceptionPracticeProblem\obj\Debug\net6.0\Day10_ExceptionPracticeProblem.pdb
+C:\Users\haree\source\repos\Day10_ExceptionPracticeProblem\Day10_ExceptionPracticeProblem\obj\Debug\net6.0\Day10_ExceptionPracticeProblem.genruntimeconfig.cache
+C:\Users\haree\source\repos\Day10_ExceptionPracticeProblem\Day10_ExceptionPracticeProblem\obj\Debug\net6.0\ref\Day10_ExceptionPracticeProblem.dll
